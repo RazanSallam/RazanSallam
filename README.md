@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @RazanSallam
 - 👀 I’m interested in Web devolopment
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on 
-- Am Gonna to learn more and more in a programming  in general...
-- Soo, Help me to achieve that...!
+- 💞️ Am Gonna to learn more and more in a programming  in general,Soo Help me to achieve that...!
 - Follow me and Give me more advice to improve my skills...!
 
 <!---
